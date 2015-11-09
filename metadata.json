@@ -1,0 +1,14 @@
+{
+  "name": "andulla-nice",
+  "version": "0.0.1",
+  "author": "andulla",
+  "summary": "Does everything i need",
+  "license": "Apache 2.0",
+  "source": "https://github.com/Andulla/NICE.git",
+  "project_page": "https://github.com/Andulla/NICE",
+  "issues_url": "https://github.com/Andulla/NICE/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
